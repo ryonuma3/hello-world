@@ -1,5 +1,5 @@
 # hello-world
 Just another repository
 
-I'm a spyderman in Japan.
+I'm a spiderman in Japan.
 Boring days.
